@@ -50,3 +50,5 @@ The website is not deployed. The intended later frontend host is convex.site. Co
 ## Licensing
 
 No license for the original project code or artwork has been selected. Public source availability does not add an MIT license. Third-party dependencies retain their respective licenses; they are installed through the lockfile and are not vendored here.
+
+Anonymous repository page, API, raw README and source archive access were verified on September 14, 2026. This verifies public source availability; the website is not deployed.

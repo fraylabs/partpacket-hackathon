@@ -13,3 +13,5 @@ Verified September 14, 2026.
 - Scope: public source for the local storytelling concept. No live deployment or hackathon submission.
 
 The page runs independently of the development plugin. No private configuration or credentials are required to build or test it.
+
+Anonymous repository page, API, raw README and source archive access were verified on September 14, 2026. This verifies public source availability; the website is not deployed.
