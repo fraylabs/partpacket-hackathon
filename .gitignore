@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env*
+*.log
+.DS_Store
+.local-publication/
+.agents/
+AGENTS.md
+DELIVERY.md
+design/reference.png
+design/generated/
+scripts/prepare-images.mjs
+evidence/TEAMMATES.md
+evidence/worker-inventory.json
+evidence/npm-audit-initial.json
+evidence/independent-*.png

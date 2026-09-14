@@ -1,0 +1,1 @@
+{"name":"partpacket-story","version":"0.1.0","private":true,"type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build","preview":"vite preview --host 127.0.0.1","qa":"node scripts/qa.mjs"},"devDependencies":{"@axe-core/playwright":"^4.10.2","@playwright/test":"^1.55.0","sharp":"^0.35.4","vite":"^7.1.5"}}

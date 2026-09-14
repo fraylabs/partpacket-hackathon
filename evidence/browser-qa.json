@@ -1,0 +1,26 @@
+[
+  {
+    "viewport": "desktop",
+    "overflow": false,
+    "errors": [],
+    "accessibilityViolations": [],
+    "dialogViolations": [],
+    "journey": "ask, approve, make, back twice, Escape passed"
+  },
+  {
+    "viewport": "mobile",
+    "overflow": false,
+    "errors": [],
+    "accessibilityViolations": [],
+    "dialogViolations": [],
+    "journey": "ask, approve, make, back twice, Escape passed"
+  },
+  {
+    "viewport": "small-mobile",
+    "overflow": false,
+    "errors": [],
+    "accessibilityViolations": [],
+    "dialogViolations": [],
+    "journey": "ask, approve, make, back twice, Escape passed"
+  }
+]
